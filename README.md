@@ -4,7 +4,7 @@ I'm a front-end and a future full stack developer
 
 ### Hi there, I'm Julia 👋
 
-- 🔭 I’m currently working on **a lot of different stuff**
+- 🔭 I’m currently working on **a lot of individual projects**
 - 🌱 I’m currently learning **Node.js**
 - 👯‍♀️ I'm looking to collaborate on **interesting project with team**
 - 🤔 I’m looking for help with **finding more time in a single day**
