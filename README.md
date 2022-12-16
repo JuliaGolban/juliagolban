@@ -7,7 +7,6 @@ I'm a front-end and a future full stack developer
 - 🔭 I’m currently working on **a lot of individual projects**
 - 🌱 I’m currently learning **Node.js**
 - 👯‍♀️ I'm looking to collaborate on **interesting project with team**
-- 🤔 I’m looking for help with **finding more time in a single day**
 - 📫 How to reach me: **julia.shcherban@gmail.com**
 - ⚡ Fun fact: **I adore what I do - code and help people or companies**
 
