@@ -5,14 +5,14 @@ I'm a front-end and a future full stack developer
 ### Hi there, I'm Julia 👋
 
 - 🔭 I’m currently working on **a lot of individual projects**
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next.js**
 - 👯‍♀️ I'm looking to collaborate on **interesting project with team**
 - 📫 How to reach me: **julia.shcherban@gmail.com**
 - ⚡ Fun fact: **I adore what I do - code and help people or companies**
 
 ## 🛠 Skills
 
-Node.js, React.js, Redux, Javascript, TypeScript, Rest API, AJAX, JSON, Webpack, Parcel,
+Node.js, React.js, React Native, Redux, Javascript, TypeScript, Rest API, AJAX, JSON, Webpack, Parcel,
 HTML, CSS, SASS, Responsive/ Adaptive design, Figma, Scrum
 
 ## 🔗 Links
