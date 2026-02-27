@@ -13,7 +13,7 @@ I'm a front-end and a future full stack developer
 ## 🛠 Skills
 
 Node.js, React.js, React Native, Redux, Javascript, TypeScript, Rest API, AJAX, JSON, Webpack, Parcel,
-HTML, CSS, SASS, Responsive/ Adaptive design, Figma, Scrum
+HTML, CSS, SASS, Responsive/ Adaptive design, AI Content, AI Video Gemeration, AI Image Generation, Prompt Engeneering, Figma, Scrum
 
 ## 🔗 Links
 
