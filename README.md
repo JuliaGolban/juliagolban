@@ -1,11 +1,11 @@
 ## 🚀 About Me
 
-I'm a front-end and a future full stack developer
+I'm a full stack developer and a AI-creator
 
 ### Hi there, I'm Julia 👋
 
 - 🔭 I’m currently working on **a lot of individual projects**
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Generation AI**
 - 👯‍♀️ I'm looking to collaborate on **interesting project with team**
 - 📫 How to reach me: **julia.shcherban@gmail.com**
 - ⚡ Fun fact: **I adore what I do - code and help people or companies**
